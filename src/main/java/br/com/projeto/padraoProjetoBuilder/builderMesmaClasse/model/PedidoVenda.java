@@ -63,7 +63,7 @@ public class PedidoVenda {
             return this;
         }
 
-        public PedidoVenda padraoProjetoBuilder(){
+        public PedidoVenda construir(){
             return new PedidoVenda(numero, cliente, itensPedido, vendedor);
         }
     }

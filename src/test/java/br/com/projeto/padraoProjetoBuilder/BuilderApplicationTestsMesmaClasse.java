@@ -24,7 +24,7 @@ class BuilderApplicationTestsMesmaClasse {
 									.comItemPedido("Borraca", 2, new BigDecimal("3"))
 									.comVendedor(888, "Vendedor Paulo")
 									.comNumero("999")
-									.padraoProjetoBuilder();
+									.construir();
 
 		BigDecimal valorTotal = pedidoVenda.getValorTotal();
 
@@ -48,7 +48,7 @@ class BuilderApplicationTestsMesmaClasse {
 									.comItemPedido("Caneta", 2, new BigDecimal("1"))
 									.comVendedor(888, "Vendedor Paulo")
 									.comNumero("999")
-									.padraoProjetoBuilder();
+									.construir();
 
 		BigDecimal valorTotal = pedidoVenda.getValorTotal();
 
