@@ -13,7 +13,7 @@ Este projeto trata-se da implementa&ccedil;&atilde;o do Padr&atilde;o de Projeto
 
 <h3><u>Defini&ccedil;&atilde;o</u></h3>
 
-<p>Segundo o cat&aacute;logo GOF o padr&atilde;o tem como defini&ccedil;&atilde;o:&nbsp;<em>&quot;Permitir a cria&ccedil;&atilde;o passo-a-passo de objetos complexos usando uma sequ&ecirc;ncia de a&ccedil;&otilde;es. A constru&ccedil;&atilde;o &eacute; controlada por um objeto diretor que apenas precisa conter o tipo do objeto que deve ser criado.&quot;</em></p>
+<p>Segundo o cat&aacute;logo GoF o padr&atilde;o tem como defini&ccedil;&atilde;o:&nbsp;<em>&quot;Permitir a cria&ccedil;&atilde;o passo-a-passo de objetos complexos usando uma sequ&ecirc;ncia de a&ccedil;&otilde;es. A constru&ccedil;&atilde;o &eacute; controlada por um objeto diretor que apenas precisa conter o tipo do objeto que deve ser criado.&quot;</em></p>
 
 ![image](https://user-images.githubusercontent.com/99047577/206752358-0bd1a3b9-88a1-41e8-a512-e7e355973a69.png)<br />
 &nbsp;
